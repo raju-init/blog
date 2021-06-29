@@ -34,9 +34,11 @@ h1 {
 }
 
 
-.footer{
+.state{
   position: absolute;
   bottom: 0;
   left: 50%;
   transform: translate(-50%);
+  color: white;
+  background-color: #202124;
 }
