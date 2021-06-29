@@ -39,6 +39,6 @@ h1 {
   bottom: 0;
   left: 50%;
   transform: translate(-50%);
-  color: white;
-  background-color: #202124;
+  color: black;
+  background-color: white;
 }
